@@ -57,9 +57,9 @@ I'm an Information Systems Engineer working as a Software Engineer at Accenture.
 
 **Spoken Languages**
 
-![Spanish](https://img.shields.io/badge/Spanish-Native-4A90D9?style=flat-square)
-![English](https://img.shields.io/badge/English-C1_Advanced-27AE60?style=flat-square)
-![French](https://img.shields.io/badge/French-B2_Intermediate-E67E22?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-4A90D9?style=flat-square)
+![English](https://img.shields.io/badge/English-27AE60?style=flat-square)
+![French](https://img.shields.io/badge/French-E67E22?style=flat-square)
 
 ---
 

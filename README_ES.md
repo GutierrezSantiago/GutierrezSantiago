@@ -57,9 +57,9 @@ Soy Ingeniero en Sistemas de Información y trabajo como Software Engineer en Ac
 
 **Idiomas**
 
-![Español](https://img.shields.io/badge/Español-Nativo-4A90D9?style=flat-square)
-![Inglés](https://img.shields.io/badge/Inglés-C1_Avanzado-27AE60?style=flat-square)
-![Francés](https://img.shields.io/badge/Francés-B2_Intermedio-E67E22?style=flat-square)
+![Español](https://img.shields.io/badge/Español-4A90D9?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-27AE60?style=flat-square)
+![Francés](https://img.shields.io/badge/Francés-E67E22?style=flat-square)
 
 ---
 

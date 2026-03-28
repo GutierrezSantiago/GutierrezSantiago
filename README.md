@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./README_ES.md">🇪🇸 Leer en español</a>
+  <a href="./README_ES.md">Leer en español</a>
 </p>
 
 <h1 align="center">Santiago Gutierrez</h1>
